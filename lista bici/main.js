@@ -74,8 +74,7 @@ PREZZO: ${biciLeggera.prezzo} €
 
 TIPOLOGIA D'UTILIZZO: ${biciLeggera.tipologia}
 
-
-    `
+`
  );
 
  document.getElementById("bici").innerHTML = JSON.stringify(bici);
