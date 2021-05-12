@@ -1,0 +1,30 @@
+body {
+    background-color: grey;
+}
+
+
+.blue{
+    color:lime;
+    font-size: 1.8em;
+     
+}
+.red{
+
+    color:whitesmoke
+}
+.green{
+    color:whitesmoke
+}
+.orange{
+    color:whitesmoke
+}
+
+ul  li{
+    font-size: 1.4em;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: black;
+    width: 20vw;
+    height: 3vh;
+}
